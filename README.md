@@ -1,2 +1,5 @@
 # apollon-uml-vanilla-js
-just clone and open index.html
+clone
+npm install
+npm run build
+open index.html
