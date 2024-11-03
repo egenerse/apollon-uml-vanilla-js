@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-,    "build": "node bundle.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node bundle.js",
+    "start": "npm link \"@ls1intum/apollon\" && node bundle.js"
 
   },
   "keywords": [],
